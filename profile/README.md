@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quireloop/quireloop/main/assets/logo.svg" width="96" alt="Quireloop logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quireloop/.github/main/profile/assets/quireloop-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/quireloop/.github/main/profile/assets/quireloop-logo-light.svg" width="460" alt="Quireloop logo">
+  </picture>
 </p>
-
-<h1 align="center">Quireloop</h1>
 
 <p align="center">
   <b>A self-hosted, collaborative LaTeX editor for academic research.</b><br>
